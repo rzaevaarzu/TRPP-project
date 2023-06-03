@@ -20,7 +20,8 @@
 - HTML
 - CSS
 - JavaScript
-- Gulp
+- Node.js
+- MkDocs
 
 ## Установка и запуск проекта
 
